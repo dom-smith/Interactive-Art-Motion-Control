@@ -20,4 +20,4 @@ Instructions:
   You're all set! Click Start in the ZIG SIM App and Run the UE5 Project and you'll see you're sending OSC messages to Protokol along with interacting with the UE5 Art!
 
 
-* If you're running into issues with sending OSC messages from ZIG SIM to Protokol, make sure your firewall isn't blocking these incoming messages*
+ *If you're running into issues with sending OSC messages from ZIG SIM to Protokol, make sure your firewall isn't blocking these incoming messages*

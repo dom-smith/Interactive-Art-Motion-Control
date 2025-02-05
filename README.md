@@ -4,9 +4,10 @@ The following is an interactive art piece using your mobile device as a motion c
 
 Instructions:
 
-- First, you'll need to download the ZIG SIM app on your mobile device from either the IOS App Store or Google Play Store
-- Next, ensure that both your mobile device and your Computer UE5 Project from are on the same network (I recommend using a hotspot here)
-- On your mobile device, go to your Network Settings and copy the IPv4 Router address
+- First, download this repository (the UE5 project)
+- Next, you'll need to download the ZIG SIM app on your mobile device from either the IOS App Store or Google Play Store
+- Next, ensure that both your mobile device and your Computer running the UE5 Project are on the same network (I recommend using a hotspot here)
+- On your mobile device, go to your Network Settings and copy the IPv4 Router address (this can be found in your Phone Settings)
 - Paste the Router Address in both your ZIG SIM app under Settings along with the UE5 project in the BP_OSC Blueprint
 - Set a custom port number in the ZIG SIM App and copy it in the UE5 project in the BP_OSC Blueprint 
 - In ZIG SIM, change 'Message Format' to OSC and 'Resfresh Rate' to 30
